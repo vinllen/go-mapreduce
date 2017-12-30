@@ -4,4 +4,4 @@ This project is just an easy example that reade big file first and then calculat
 1. Run generate if you want generate the test input file
 2. Run caller
 
-[Brief introduce blog address](http://vinllen.com/golangshi-xian-mapreducedan-jin-cheng-ban-ben/)
+[Brief chinese introduction blog address](http://vinllen.com/golangshi-xian-mapreducedan-jin-cheng-ban-ben/)
